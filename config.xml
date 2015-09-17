@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.invercoop"
+    version   = "1.0.0">
+
+<name>INVERCOOP</name>
+
+<description>
+Esta es una aplicación para INVERCOOP.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Oficina de TI.
+</author>
+
+<icon src="img/nori2.png" />
+
+<access origin="*" />
+<access origin="*" subdomains="true" />
+<access uri="*" subdomains="true" />
+
+</widget>
